@@ -1,0 +1,38 @@
+body {
+background-color:#FFBA34;
+}
+h1{
+	color: #FCFEFD;
+	background-color:#05D20E;
+	border:1px solid #808080;
+	font-size: 30px;
+	font-style: Cursiva;
+	font-weight:bold;
+	font-family: Comic Sans MS;
+	text-align: center;
+}
+
+h2{
+	color: #F80303;
+	font-style: Cursiva;
+	font-weight:bold;
+	font-family: Courier New;
+	text-align: center;
+}
+
+p
+{
+	color:#060606;
+	font-size:16px;
+	font-style: Cursiva;
+	font-family: Comic Sans MS;
+	border-left:2px solid Green;
+	border-right:2px solid Green;
+	}
+	
+img.mediana {
+	width: 500px; height: 300px;
+}
+
+
+
